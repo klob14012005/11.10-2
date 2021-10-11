@@ -7,6 +7,7 @@ namespace _11._10_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("ChangeVS");
         }
     }
 }
