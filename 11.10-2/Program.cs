@@ -7,7 +7,9 @@ namespace _11._10_2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("ChangeVS");
+            Console.WriteLine("Test 1");
+            Console.WriteLine("Change VS");
+            Console.WriteLine("New Branch");
         }
     }
 }
